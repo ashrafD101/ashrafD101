@@ -1,10 +1,10 @@
 
-# Welcome to [achraf ennaji's] profile! 
+# Welcome to achraf ennaji's profile! 
 <a href="https://www.linkedin.com/in/achraf-ennaji-346605280/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ASHRAF_D101/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
 
 ## Glad to see you here! &nbsp;
-Hey! I'm Achraf Ennaji, a full-stack software engineer who loves programming, reading, working out, and playing video games.
+Hey! I'm Achraf Ennaji, a Software Engineering graduate passionate about full-stack development, AI, reading, working out, and playing video games.
 
 I enjoy solving problems, building things from scratch, and finding creative solutions to challenging problems. I'm always learning, experimenting with new technologies, and looking for ways to become a better developer.
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
