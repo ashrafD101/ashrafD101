@@ -7,7 +7,6 @@
 Hey! I'm Achraf Ennaji, a Software Engineering graduate passionate about full-stack development, AI, reading, working out, and playing video games.
 
 I enjoy solving problems, building things from scratch, and finding creative solutions to challenging problems. I'm always learning, experimenting with new technologies, and looking for ways to become a better developer.
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
