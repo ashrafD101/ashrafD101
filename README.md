@@ -14,7 +14,7 @@ I enjoy solving problems, building things from scratch, and finding creative sol
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Python
 - 📬 How to reach me: [achrafennaji88@gmail.com](mailto:achrafennaji88@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1EDEvKMMWgt4SFYD7r6yPfmkm6oMb2R6T/view?usp=drive_link).
 
