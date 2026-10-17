@@ -13,8 +13,7 @@ I enjoy solving problems, building things from scratch, and finding creative sol
 - 👨‍🎓 I'm a **Software Engineering graduate**
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms
-  - Python
+  - React Native
 - 📬 How to reach me: [achrafennaji88@gmail.com](mailto:achrafennaji88@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1EDEvKMMWgt4SFYD7r6yPfmkm6oMb2R6T/view?usp=drive_link).
 
